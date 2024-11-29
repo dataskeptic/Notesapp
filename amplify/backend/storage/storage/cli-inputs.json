@@ -1,0 +1,14 @@
+{
+  "resourceName": "storage",
+  "policyUUID": "5b1665df",
+  "bucketName": "storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger418afe71",
+  "groupAccess": {}
+}
